@@ -6,7 +6,8 @@ Playbook устанавливает на 2 машины (ОС из семейс�
 
 ## Параметры
 
-В group_vars/clickhouse/vars.yml и group_vars/vector/vars.yml  задаются соответственно версии Clickhouse и Vector
+В group_vars/clickhouse/vars.yml и group_vars/vector/vars.yml  задаются соответственно версии Clickhouse и Vector.
+
 В inventory/prod.yml задаются хосты для установки и доступы к ним
 
 ## Теги
