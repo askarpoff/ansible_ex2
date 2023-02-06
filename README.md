@@ -15,9 +15,7 @@ group_vars/clickhouse/vars.yml
 | Имя           | Значение по умолчанию | Описание                        |
 | -------------- | ------------- | -----------------------------------|
 | `clickhouse_version` |  "22.3.3.44" | Версия Clickhouse |
-| `clickhouse_packages` |    - clickhouse-client
-  - clickhouse-server
-  - clickhouse-common-static | Пакеты Clickhouse для установки |
+| `clickhouse_packages` |    - clickhouse-client  - clickhouse-server  - clickhouse-common-static | Пакеты Clickhouse для установки |
 
 
 ## Теги
